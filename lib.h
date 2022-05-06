@@ -1,1 +1,1 @@
-float array (float[], int);
+float array(float[], int);
